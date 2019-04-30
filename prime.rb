@@ -6,5 +6,5 @@ def prime?(num)
     end
     n += 1 
   end
-  return num >= 2
+   num >= 2
 end
